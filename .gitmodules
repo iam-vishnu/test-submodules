@@ -4,3 +4,6 @@
 [submodule "iam-vishnu"]
 	path = iam-vishnu
 	url = https://github.com/iam-vishnu/iam-vishnu.git
+[submodule "test-submodules"]
+	path = test-submodules
+	url = https://github.com/iam-vishnu/test-submodules.git
