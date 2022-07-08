@@ -7,3 +7,6 @@
 [submodule "test-submodules"]
 	path = test-submodules
 	url = https://github.com/iam-vishnu/test-submodules.git
+[submodule "update-repo"]
+	path = update-repo
+	url = https://github.com/iam-vishnu/update-repo.git
